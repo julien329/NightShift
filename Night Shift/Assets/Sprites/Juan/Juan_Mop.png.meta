@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 4cddc10a108cb1545bbac4be59a50602
+timeCreated: 1463247472
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Juan_Mop 1_0
+    21300002: Juan_Mop 1_1
+    21300004: Juan_Mop 1_2
+    21300006: Juan_Mop 1_3
+    21300008: Juan_Mop 1_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Juan_Mop 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.514, y: 0.485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.448, y: 12.48}
+        - {x: -16.448, y: 9.48}
+        - {x: -16.448, y: -1.5200005}
+        - {x: -6.448, y: -8.52}
+        - {x: 8.552, y: -8.52}
+        - {x: 10.552, y: -7.5200005}
+        - {x: 13.552, y: 1.4799995}
+        - {x: 13.552, y: 9.48}
+        - {x: 7.552, y: 12.48}
+    - name: Juan_Mop 1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.514, y: 0.485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.447998, y: 12.48}
+        - {x: -16.447998, y: -2.5200005}
+        - {x: -9.447998, y: -7.5200005}
+        - {x: -1.447998, y: -8.52}
+        - {x: 6.552002, y: -8.52}
+        - {x: 12.552002, y: -1.5200005}
+        - {x: 13.552002, y: 7.4799995}
+        - {x: 13.552002, y: 12.48}
+    - name: Juan_Mop 1_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.514, y: 0.485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.447998, y: 12.48}
+        - {x: -14.447998, y: 11.48}
+        - {x: -16.447998, y: 8.48}
+        - {x: -16.447998, y: -1.5200005}
+        - {x: -13.447998, y: -3.5200005}
+        - {x: -6.447998, y: -8.52}
+        - {x: 3.552002, y: -8.52}
+        - {x: 13.552002, y: -3.5200005}
+        - {x: 13.552002, y: 9.48}
+        - {x: 7.552002, y: 12.48}
+    - name: Juan_Mop 1_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.514, y: 0.485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.447998, y: 12.48}
+        - {x: -16.447998, y: 11.48}
+        - {x: -16.447998, y: -3.5200005}
+        - {x: -13.447998, y: -8.52}
+        - {x: 13.552002, y: -8.52}
+        - {x: 13.552002, y: 10.48}
+        - {x: 11.552002, y: 12.48}
+    - name: Juan_Mop 1_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.514, y: 0.485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.447998, y: 12.48}
+        - {x: -16.447998, y: 9.48}
+        - {x: -16.447998, y: -0.52000046}
+        - {x: -7.447998, y: -8.52}
+        - {x: 4.552002, y: -8.52}
+        - {x: 13.552002, y: -2.5200005}
+        - {x: 13.552002, y: 8.48}
+        - {x: 5.552002, y: 12.48}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
